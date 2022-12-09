@@ -27,7 +27,7 @@ FONT_SIZE = 30
 # SOUND
 BOUNCE_SOUND = "game/assets/sounds/bouncing.wav"
 WELCOME_SOUND = "game/assets/sounds/start.wav"
-OVER_SOUND = "gameg/assets/sounds/over.wav"
+OVER_SOUND = "game/assets/sounds/over.wav"
 
 # TEXT
 ALIGN_CENTER = 0
